@@ -1,4 +1,4 @@
-Olá, bem vindo ao meu projeto decotificador de texto
+Olá, bem vindo ao meu projeto decodificador de texto
 
 ## Ferramentas utilizadas:
 
